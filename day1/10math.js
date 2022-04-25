@@ -24,7 +24,7 @@ console.log(Math.round(2.5)); // 3
 console.log(Math.max ( 3,5,7,9)); // output 9
 
 // Math.min returns minimum/smallest number in your numbers
-console.log(Math.max ( 3,5,7,9)); // output 3
+console.log(Math.min ( 3,5,7,9)); // output 3
 
 // Math.sqrt
 // return squareroot of that number
