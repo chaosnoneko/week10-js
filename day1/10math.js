@@ -14,7 +14,7 @@ console.log(Math.random() * (20-10) + 10); // - generate a number in betweenn 10
 console.log(Math.floor(2.9)); // output 2 . By using this methode they are rounding it down 
 
 // Math.ceil
-console.log(Math.floor(2.9)); // output 3 . By using this methode they are rounding it up
+console.log(Math.ceil(2.9)); // output 3 . By using this methode they are rounding it up
 
 // Math.round - it's the usuall math we know
 console.log(Math.round(2.3)); // 2 
