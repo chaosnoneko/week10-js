@@ -20,7 +20,7 @@ if(age<12){
     console.log("Maria is a little girl")
 }else if(age>12&& age<20){
     console.log("Maria is a teenager")
-}else if (age>=20 age<40){
+}else if (age>=20 && age<40){
     console.log("Maia a young woman ")
 }else{ 
     console.log("Maria is an old woman")
